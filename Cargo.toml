@@ -1,0 +1,12 @@
+[package]
+name = "fql"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = { version = "4.5.26", features = ["derive"] }
+colored = "3.0.0"
+rayon = "1.10.0"
+walkdir = "2.5.0"
+fuzzy-matcher = "*"
+regex = "1.11.1"

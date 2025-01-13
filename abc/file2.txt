@@ -1,0 +1,14 @@
+Line 1: Random text.
+Line 2: Another error line here.
+Line 3: Something else here.
+Line 4: More random data.
+Line 5: Error again.
+Line 6: Completely different.
+Line 7: And another error appears.
+Line 8: ERR! this is some thing like.
+
+
+
+Fuzzy searching is useful for approximate matches.
+Rust's ecosystem is growing rapidly.
+This is another test file for fuzzy searching.

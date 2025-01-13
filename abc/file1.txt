@@ -1,0 +1,12 @@
+Line 1: No issues here.
+Line 2: This is an error message.
+Line 3: Everything else is fine.
+Line 4: Another unrelated line.
+Line 5: Another error occurred here.
+Line 6: Something different now.
+
+
+
+Rust is a systems programming language.
+It emphasizes safety and performance.
+Concurrency is easy with Rust.
